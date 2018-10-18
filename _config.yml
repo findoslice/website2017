@@ -23,7 +23,7 @@ collections:
 
   posts:
     output: true
-    permalink: "/blog/:categories/:year/:month/:day/:title.html"
+    permalink: "/news/:categories/:year/:month/:day/:title.html"
     
 defaults:
   - scope:
