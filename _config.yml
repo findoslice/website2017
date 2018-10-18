@@ -4,7 +4,7 @@ sass:
    sourcemap: true
 
 url: "https://findoslice.com"
-baseurl: "website2017" # does not include hostname
+baseurl: "" # does not include hostname
 
 include: [".well-known"]
 
