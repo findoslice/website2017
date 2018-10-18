@@ -5,7 +5,7 @@
   url: "/events"
 
 - text: News
-  url: "/blog/"
+  url: "/news/"
 
 - text: Community
   url: "/community"
